@@ -27,11 +27,5 @@
           <br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-    <div style="display: flex; flex-direction: row; gap: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Joseng8908&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Joseng8908's Github Stat" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseng8908&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
     </div>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseng8908&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
