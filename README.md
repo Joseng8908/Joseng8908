@@ -34,4 +34,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseng8908&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
     </div>
 </div>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseng8908&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
