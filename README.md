@@ -1,17 +1,35 @@
-## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Joseng8908=anuraghazra&layout=compact)
-<a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-<!--
-**Joseng8908/Joseng8908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20World!&animation=&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, I'm Sangyun Jo </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
 
-Here are some ideas to get you started:
+👋 I'm Sangyun 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ High Performance System Engineer I build the underlying infrastructure for the next generation of immersive experiences. My focus lies in the intersection of **Real time Systems** and **Human Machine Interfaces**.
+* 🔭**Current Project:** High fidelity motion analysis & Low latency signal processing.
+* 🛠 **Core Stack:** Go, C, Docker, Kubernetes, Linux Internals.
+* ⚡**Focus:** Optimizing system level performance and concurrent processing.
+
+🎓 Education
+* Computer Science and Engineering @ SeoulTech 
+
+Engineering the bridge between neural signals and virtual worlds through robust, low level systems." </div> 
+</div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Joseng8908&custom_title=Joseng8908's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseng8908&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+ 
