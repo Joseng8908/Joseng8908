@@ -7,7 +7,8 @@
 
 I'm Sangyun 
 
-🏗️ High Performance System Engineer I build the underlying infrastructure for the next generation of immersive experiences. My focus lies in the intersection of **Real time Systems** and **Human Machine Interfaces**.
+🏗️ High Performance System Engineer 
+I build the underlying infrastructure for the next generation of immersive experiences. My focus lies in the intersection of **Real time Systems** and **Human Machine Interfaces**.
 * 🔭**Current Project:** High fidelity motion analysis & Low latency signal processing.
 * 🛠 **Core Stack:** Go, C, Docker, Kubernetes, Linux Internals.
 * ⚡**Focus:** Optimizing system level performance and concurrent processing.
