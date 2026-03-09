@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Joseng8908=anuraghazra&layout=compact)
+https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white
 <!--
 **Joseng8908/Joseng8908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
