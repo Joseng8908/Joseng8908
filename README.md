@@ -10,11 +10,11 @@
     <br><br>
     <strong>Focus & Stack:</strong>
     <ul>
-      <li>🔭 <b>Current Project:</b> High-fidelity motion analysis & Low-latency signal processing</li>
-      <li>🛠 <b>Core Stack:</b> Go, C, Docker, Kubernetes, Linux Internals</li>
-      <li>⚡ <b>Focus:</b> Optimizing system-level performance and concurrent processing</li>
+      <li> 🧐 <b>Current Project:</b> Mini Container constructing & Low-latency signal processing</li>
+      <li> 😮 <b>Core Stack:</b> Go, C, Docker, Kubernetes, Linux Internals</li>
+      <li> 😆 <b>Focus:</b> Optimizing system-level performance and concurrent processing</li>
     </ul>
-    <strong>🎓 Education</strong>
+    <strong>🏫 Education</strong>
     <ul>
       <li>Computer Science and Engineering @ SeoulTech</li>
     </ul>
