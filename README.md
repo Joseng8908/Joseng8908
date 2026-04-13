@@ -10,10 +10,10 @@
     <br><br>
     <strong>Focus & Stack:</strong>
     <ul>
-      <li> 🧐 <b>Current Project:</b> Mini Container constructing & Low-latency signal processing</li>
+      <li> 🧐 <b>Current Project:</b> k8s schduler customizizng </li>
       <li> 😮 <b>Core Stack:</b> Go, C, Docker, Kubernetes, Linux Internals</li>
       <li> 😆 <b>Focus:</b> Optimizing system-level performance and concurrent processing</li>
-      <li> 😎 <b>Now interest:</b> Real time imbbed system with go </li>
+      <li> 😎 <b>Now interest:</b> Scheduler </li>
     </ul>
     <strong>🏫 Education</strong>
     <ul>
