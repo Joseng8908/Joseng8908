@@ -27,7 +27,7 @@
 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Projects </h2>
   <div style="font-size: 15px; color: #c9d1d9; font-weight: bold;">
-     <a href="https://github.com/Joseng8908/go_programming/tree/main/micro-container" style="color: #58a6ff; text-decoration: none;">micro-container</a> 
+     - <a href="https://github.com/Joseng8908/go_programming/tree/main/micro-container" style="color: #58a6ff; text-decoration: none;">micro-container</a> 
     <span style="font-weight: normal;">: Container imitation project </span>
   </div>
 </div>
