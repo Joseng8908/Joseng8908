@@ -14,7 +14,7 @@
     </ul>
   </div>
 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2>
   <div style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   </div>
 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📜 Projects </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Projects </h2>
   <div style="font-size: 15px; color: #c9d1d9; font-weight: bold;">
      <a href="https://github.com/rl-arena/rl-arena-backend" style="color: #58a6ff; text-decoration: none;">RL-Arena-Backend</a> 
     <span style="font-weight: normal;">: 머신러닝 기반 AI Agent 게임 대결 플랫폼 백엔드 설계 및 구현</span>
