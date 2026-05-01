@@ -48,10 +48,10 @@
 
 **목표:** 바로 개발 들어갈 수 있는 환경 완성
 
-- [ ] `kind` or `kubeadm` 으로 로컬 k8s 클러스터 구성
-- [ ] Go 개발환경 세팅 (이미 Go 하니까 빠름)
-- [ ] Prometheus + Grafana 스택 올리기 (벤치마크 메트릭 수집용)
-- [ ] FFmpeg 설치 및 트랜스코딩 테스트 워크로드 확인
+- [x] `kind` or `kubeadm` 으로 로컬 k8s 클러스터 구성
+- [x] Go 개발환경 세팅 (이미 Go 하니까 빠름)
+- [x] Prometheus + Grafana 스택 올리기 (벤치마크 메트릭 수집용)
+- [x] FFmpeg 설치 및 트랜스코딩 테스트 워크로드 확인
 
 ```bash
 # 클러스터 세팅
@@ -86,7 +86,7 @@ QueueSort → PreFilter → Filter → PostFilter
           → Permit    → PreBind → Bind
 ```
 
-- [ ] `scheduleOne()` 전체 추적
+- [x] `scheduleOne()` 전체 추적
 - [ ] 기본 플러그인 (NodeResourcesFit, InterPodAffinity) 코드 읽기
 - [ ] Plugin 인터페이스 구현 방법 파악
 
