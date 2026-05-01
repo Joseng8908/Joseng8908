@@ -33,5 +33,11 @@
     <span style="font-weight: normal;">: Container imitation project </span>
        </li>
       </ul>
+    <strong>Scheduler:</strong>
+      <ul>
+       <li>  <a href="https://github.com/Joseng8908/chijik-scheduler.git" style="color: #58a6ff; text-decoration: none;">chijik-scheduler</a> 
+    <span style="font-weight: normal;">: kubernetes custom scheduler </span>
+       </li>
+      </ul>
   </div>
 </div>
