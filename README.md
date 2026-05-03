@@ -35,7 +35,7 @@
       </ul>
     <strong>Scheduler:</strong>
       <ul>
-       <li>  <a href="https://github.com/Joseng8908/chijik-scheduler.git" style="color: #58a6ff; text-decoration: none;">chijik-scheduler</a> 
+       <li>  <a href="https://github.com/Joseng8908/chijik-scheduler/tree/dev/v1.29-chijik/pkg/plugins" style="color: #58a6ff; text-decoration: none;">chijik-scheduler</a> 
     <span style="font-weight: normal;">: kubernetes custom scheduler </span>
        </li>
       </ul>
