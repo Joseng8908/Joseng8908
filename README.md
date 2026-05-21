@@ -6,7 +6,7 @@
       <li>  <b>Current Project:</b> k8s schduler customizizng </li>
       <li>  <b>Core Stack:</b> Go, C, Docker, Kubernetes, Linux Internals</li>
       <li>  <b>Focus:</b> Optimizing system-level performance and concurrent processing</li>
-      <li>  <b>Now interest:</b> Scheduler </li>
+      <li>  <b>Now interest:</b> k8s SIGs - Custom Scheduler, kueue </li>
     </ul>
     <strong>Education</strong>
     <ul>
@@ -33,7 +33,7 @@
     <span style="font-weight: normal;">: Container imitation project </span>
        </li>
       </ul>
-    <strong>Scheduler:</strong>
+    <strong>k8s SIGs:</strong>
       <ul>
        <li>  <a href="https://github.com/Joseng8908/chijik-scheduler/tree/release-1.29/pkg/plugins" style="color: #58a6ff; text-decoration: none;">chijik-scheduler</a> 
     <span style="font-weight: normal;">: kubernetes custom scheduler </span>
