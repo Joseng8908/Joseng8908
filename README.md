@@ -20,7 +20,7 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-1B1B1B?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Backend.AI](https://img.shields.io/badge/Backend.AI-2A2D34?style=flat-square&logoColor=white)
+![Backend.AI](https://img.shields.io/badge/Backend.ai-2A2D34?style=flat-square&logoColor=white)
 ---
 
 ## Projects
