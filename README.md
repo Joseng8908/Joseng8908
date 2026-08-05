@@ -1,5 +1,4 @@
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #002E63;"> Hi, I'm Sangyun Jo </h2>
   <div style="font-size: 15px; line-height: 1.6; color: #c9d1d9;">
     <strong>Focus & Stack:</strong>
     <ul>
