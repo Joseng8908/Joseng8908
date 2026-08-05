@@ -1,42 +1,49 @@
-<div style="text-align: left;">
-  <div style="font-size: 15px; line-height: 1.6; color: #c9d1d9;">
-    <strong>Focus & Stack:</strong>
-    <ul>
-      <li>  <b>Current Project:</b> k8s schduler customizizng </li>
-      <li>  <b>Core Stack:</b> Go, C, Docker, Kubernetes, Linux Internals</li>
-      <li>  <b>Focus:</b> Optimizing system-level performance and concurrent processing</li>
-      <li>  <b>Now interest:</b> k8s SIGs - Custom Scheduler, kueue </li>
-    </ul>
-    <strong>Education</strong>
-    <ul>
-      <li>Computer Science and Engineering @ SeoulTech</li>
-    </ul>
-  </div>
+### Focus & Stack
 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-  </div>
+- **Domain:** AI Datacenter Infrastructure — distributed inference serving, GPU cluster orchestration
+- **Core Stack:** Go, C, Python, Linux Internals, Kubernetes, Docker
+- **Working on:** Large-scale LLM serving on multi-GPU nodes — tensor/pipeline/expert parallelism, KV cache tuning, interconnect topology analysis
+- **Interested in:** Kubernetes SIG-Scheduling, Kueue, vLLM internals, multi-node inference
 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Projects </h2>
-  <div style="font-size: 15px; color: #c9d1d9; font-weight: bold;">
-    <strong>Container:</strong>
-      <ul>
-       <li>  <a href="https://github.com/Joseng8908/go_programming/tree/main/micro-container" style="color: #58a6ff; text-decoration: none;">micro-container</a> 
-    <span style="font-weight: normal;">: Container imitation project </span>
-       </li>
-      </ul>
-    <strong>k8s SIGs:</strong>
-      <ul>
-       <li>  <a href="https://github.com/Joseng8908/chijik-scheduler/tree/release-1.29/pkg/plugins" style="color: #58a6ff; text-decoration: none;">chijik-scheduler</a> 
-    <span style="font-weight: normal;">: kubernetes custom scheduler </span>
-       </li>
-      </ul>
-  </div>
-</div>
+**Computer Science and Engineering @ SeoulTech**
+
+---
+
+## Tech Stacks
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-1B1B1B?style=flat-square&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+---
+
+## Projects
+
+### Kubernetes SIG-Scheduling
+
+**[chijik-scheduler](https://github.com/Joseng8908/chijik-scheduler/tree/release-1.29/pkg/plugins)** — Custom Kubernetes scheduler
+Bandwidth-aware scoring plugin built on the scheduler framework (Filter / Score / Bind).
+Explores topology-aware placement for accelerator workloads.
+
+### Container Runtime
+
+**[micro-container](https://github.com/Joseng8908/go_programming/tree/main/micro-container)** — Container runtime from scratch
+Namespace, cgroup, and pivot_root implementation in Go. Built to understand what `docker run` actually does.
+
+---
+
+## Experience
+
+**AI Datacenter / HPC Research — Research Intern**
+
+- Deployed a multi-node GPU cluster management stack (manager, agent, storage proxy, NFS) across H100 and Blackwell nodes
+- Served large MoE models (700B+ total params, FP4/FP8 quantized) with tensor / pipeline / expert parallelism
+- Diagnosed interconnect bottlenecks via GPU topology and NUMA boundary analysis; validated InfiniBand and GPUDirect RDMA paths
+- Tuned RAG serving pipeline (search backend, web loader timeouts, chunking) against measured retrieval accuracy
