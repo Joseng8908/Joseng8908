@@ -19,9 +19,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-1B1B1B?style=flat-square&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
+![Backend.AI](https://img.shields.io/badge/Backend.AI-2A2D34?style=flat-square&logoColor=white)
 ---
 
 ## Projects
